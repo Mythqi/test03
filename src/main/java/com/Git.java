@@ -11,5 +11,6 @@ public class Git {
         System.out.println("1st to commit");
         System.out.println("2");
         System.out.println("3");
+        System.out.println("4次提交");
     }
 }
