@@ -16,5 +16,6 @@ public class Git {
         System.out.println("hot-fix branch test");
         System.out.println("master 第5次提交");
         System.out.println("push test");
+         System.out.println("pull test");
     }
 }
